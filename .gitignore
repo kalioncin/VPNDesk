@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/*.db*
+data/settings.json
+logs/
+dist/
+build/
+*.spec
+
+# Keep the project's PyInstaller spec tracked
+!VPNDesk.spec
